@@ -31,8 +31,14 @@ Special Interests are finances, wealth management, music and nutrition/health.
 ### Databases
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+- 
+- ### REST API
+- ![REST API](https://img.shields.io/badge/REST_API-009688?logo=api&logoColor=white) 
 
-### Tools and Others
+### State Management
+- ![Zustand](https://img.shields.io/badge/Zustand-FFD700?logo=react&logoColor=white) 
+
+### Design, Tools and Others
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) 
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
