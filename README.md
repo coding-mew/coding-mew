@@ -20,7 +20,6 @@ Special interests are finances/wealth management, music/events, nutrition/health
 ### Frontend
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) 
 - ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) 
-- ![Zustand](https://img.shields.io/badge/Zustand-FFD700?logo=react&logoColor=white) 
 
 ### UI Frameworks/Libraries
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
