@@ -2,7 +2,7 @@
 
 I'm a software developer with a strong focus on web development. \
 I enjoy working with modern technologies and frameworks to create engaging and user-friendly applications. \
-Currently 👀 for a job, always open for collaborations
+Currently 👀 for a job, always open for collaborations.
 
 ## Tech Stack
 
