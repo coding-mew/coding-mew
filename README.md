@@ -61,6 +61,8 @@ Here are some of the projects I have worked on recently:
 
 1. MONEY MATE
 
+[Overview_MoneyMate.pdf](https://github.com/coding-mew/coding-mew/files/11612095/Overview_MoneyMate.pdf)
+
 1a. [Money Mate client](https://github.com/Money-Mate/client)
 
 1b. [Money Mate server](https://github.com/Money-Mate/server)
