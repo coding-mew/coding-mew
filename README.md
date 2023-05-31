@@ -7,36 +7,36 @@ Currently 👀 for a job, always open for collaborations
 ## Tech Stack
 
 ### Programming Languages
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) TypeScript
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) HTML5
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) CSS3
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
 
 ### Backend
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) Node.js
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) Express.js
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
 
 ### Frontend
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) React
-- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) Vite
-- ![Zustand](https://img.shields.io/badge/Zustand-FFD700?logo=react&logoColor=white) Zustand
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) 
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) 
+- ![Zustand](https://img.shields.io/badge/Zustand-FFD700?logo=react&logoColor=white) 
 
 ### UI Frameworks/Libraries
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) Tailwind CSS
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) Bootstrap
-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white) Material-UI
-- ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white) SCSS
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white) 
+- ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white) 
 
 ### Databases
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) MySQL
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 
 ### Tools and Others
-- ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) Canva
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) Git
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) Figma
-- ![Excalidraw](https://img.shields.io/badge/Excalidraw-FF9A00?logo=excalidraw&logoColor=white) Excalidraw
-- ![SEO](https://img.shields.io/badge/SEO-47C83E?logo=google&logoColor=white) SEO
+- ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) 
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
+- ![Excalidraw](https://img.shields.io/badge/Excalidraw-FF9A00?logo=excalidraw&logoColor=white) 
+- ![SEO](https://img.shields.io/badge/SEO-47C83E?logo=google&logoColor=white) 
 
 
 ## About Me
