@@ -51,6 +51,10 @@ Special interests are finances/wealth management, music/events, nutrition/health
 
 I have a passion for building scalable and performant web applications. I am experienced in leveraging my skills across the full development cycle, from gathering requirements and designing the architecture to implementing and testing the final product. I strive for continuous learning and always stay up-to-date with the latest trends and technologies in the industry.
 
+## Stats
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mew) \
+[![Leonie's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-mew&include_all_commits)](https://github.com/coding-mew/github-readme-stats)
+
 ## Projects
 
 Here are some of the projects I have worked on recently:
