@@ -1,7 +1,8 @@
 # Hi, I'm Leonie! 👋
 
-I'm a software developer with a strong focus on web development. I enjoy working with modern technologies and frameworks to create engaging and user-friendly applications.
-I am negotiable in German and English and currently looking for a job.
+I'm a software developer with a strong focus on web development. 
+I enjoy working with modern technologies and frameworks to create engaging and user-friendly applications.
+I am negotiable in German and English and currently 👀 for a job and I am always open for collaborations, especially when they related to the fields finance/investments/trading and everything related to nature/plants/animals.
 
 ## Tech Stack
 
