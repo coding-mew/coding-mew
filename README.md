@@ -6,37 +6,32 @@ Currently 👀 for a job, always open for collaborations
 
 ## Tech Stack
 
-### Programming Languages
-- TypeScript
-- JavaScript
-- CSS
-- HTML
-
 ### Backend
-- Node.js
-- Express.js
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) Node.js
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) Express.js
 
 ### Frontend
-- React
-- Vite
-- Zustand
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) React
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) Vite
+- ![Zustand](https://img.shields.io/badge/Zustand-FFD700?logo=react&logoColor=white) Zustand
 
 ### UI Frameworks/Libraries
-- Tailwind
-- Bootstrap
-- Material-UI
-- SCSS
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) Tailwind CSS
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) Bootstrap
+- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white) Material-UI
+- ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white) SCSS
 
 ### Databases
-- MongoDB
-- MySQL
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) MySQL
 
 ### Tools and Others
-- Canva
-- Git
-- Figma
-- Excalidraw
-- SEO
+- ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) Canva
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) Git
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) Figma
+- ![Excalidraw](https://img.shields.io/badge/Excalidraw-FF9A00?logo=excalidraw&logoColor=white) Excalidraw
+- ![SEO](https://img.shields.io/badge/SEO-47C83E?logo=google&logoColor=white) SEO
+
 
 ## About Me
 
