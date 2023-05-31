@@ -46,9 +46,12 @@ I have a passion for building scalable and performant web applications. I am exp
 Here are some of the projects I have worked on recently:
 
 1. MONEY MATE
+
 1a. [Money Mate client](https://github.com/Money-Mate/client)
+
 1b. [Money Mate server](https://github.com/Money-Mate/server)
     
+Desription:
 I am Money Mate, your financial buddy.
 I help you keep track of all your accounts and investments and provide you with tips for better financial health.
 On your personal dashboard, you gain an overview of all your financial resources, from your checking account to stocks, cryptocurrencies, and real estate. Here, you can also set up individual budgets and track savings goals to keep a better eye on your finances.
