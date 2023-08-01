@@ -1,8 +1,8 @@
 # Hi, I'm Leonie! 👋
 
-I'm a fullstack software engineer focusing on web technologies \
+I'm a fullstack software engineer focusing on web technologies who is deep in love with open source and the idea of sharing \
 I love finding simple solutions for complex problems \
-Currently working for a company but open for contributions on decentralized web3 projects and projects that promote justice and equality for every human being  \
+Currently working a lot but still open for contributing on decentralized web3 projects and projects that promote justice, participation and equality for every human being; especially when it comes to individual wealth  \
 Special interests are finances/wealth management.
 
 ## Tech Stack
