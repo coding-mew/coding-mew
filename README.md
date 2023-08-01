@@ -92,3 +92,6 @@ If you'd like to collaborate on a project or just want to say hi, feel free to r
 - Portfolio: [https://leonie-schwitzkowski-portfolio.vercel.app/](https://leonie-schwitzkowski-portfolio.vercel.app/)
 
 Thanks for visiting my profile! Have a great day and feel free to get in Contact if we share a vision! 😄
+
+##
+Partner in Crime && Passion ❤️ https://github.com/SebastianWolter1
