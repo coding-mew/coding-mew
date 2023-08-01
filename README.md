@@ -43,6 +43,7 @@ Special interests are finances/wealth management.
 
 
 ### Design, Tools and Others
+- ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white)
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) 
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
