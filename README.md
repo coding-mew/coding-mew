@@ -1,9 +1,9 @@
 # Hi, I'm Leonie! 👋
 
-I'm a software developer with a strong focus on web development. \
-I enjoy working with modern technologies and frameworks to create engaging and user-friendly applications. \
-Currently 👀 for a job, always open for collaborations. \
-Special interests are finances/wealth management, music/events, nutrition/health and anything related to nature.
+I'm a fullstack software engineer focusing on web technologies \
+I love finding simple solutions for complex problems \
+Currently working for a company but open for contributions on decentralized web3 projects and projects that promote justice and equality for every human being  \
+Special interests are finances/wealth management.
 
 ## Tech Stack
 
@@ -12,6 +12,7 @@ Special interests are finances/wealth management, music/events, nutrition/health
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ### Backend
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
@@ -31,6 +32,9 @@ Special interests are finances/wealth management, music/events, nutrition/health
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 
+### CMS 
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+  
 ### State Management
 - ![Zustand](https://img.shields.io/badge/Zustand-FFD700?logo=react&logoColor=white) 
 
@@ -43,7 +47,8 @@ Special interests are finances/wealth management, music/events, nutrition/health
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
 - ![Excalidraw](https://img.shields.io/badge/Excalidraw-FF9A00?logo=excalidraw&logoColor=white) 
-- ![SEO](https://img.shields.io/badge/SEO-47C83E?logo=google&logoColor=white) 
+- ![SEO](https://img.shields.io/badge/SEO-47C83E?logo=google&logoColor=white)
+
 
 
 ## About Me
@@ -85,4 +90,4 @@ If you'd like to collaborate on a project or just want to say hi, feel free to r
 - LinkedIn: [Leonie Schwitzkowski](https://www.linkedin.com/in/leonie-schwitzkowski-4b761a261/)
 - Portfolio: [https://leonie-schwitzkowski-portfolio.vercel.app/](https://leonie-schwitzkowski-portfolio.vercel.app/)
 
-Thanks for visiting my profile! Have a great day and feel free to get in Contact! 😄
+Thanks for visiting my profile! Have a great day and feel free to get in Contact if we share a vision! 😄
